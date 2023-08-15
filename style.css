@@ -1,0 +1,33 @@
+/* Example CSS for Chrome extension popup */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  h1 {
+    color: #0078d4;
+  }
+  
+  p {
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  button {
+    background-color: #0078d4;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005a9e;
+  }
+  
+  /* Add more styles based on your extension's UI components */
+    
